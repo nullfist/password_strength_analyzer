@@ -1,0 +1,7 @@
+zxcvbn
+bcrypt
+numpy
+matplotlib
+pandas
+rich
+customtkinter
