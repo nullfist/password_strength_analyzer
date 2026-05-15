@@ -27,7 +27,7 @@ Developed by **Syed**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Syed/password-analyzer.git
+   git clone https://github.com/nullfist/password-analyzer.git
    cd password-analyzer
    ```
 
